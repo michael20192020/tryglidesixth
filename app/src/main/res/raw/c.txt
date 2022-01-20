@@ -1,0 +1,5 @@
+good morning
+how old are you?
+where are you from?
+Are you student?
+Are you teacher?

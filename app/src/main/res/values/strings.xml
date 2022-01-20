@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">tryglidesixth</string>
+    <string name="addbutton">addbutton</string>
+    <string name="add">add</string>
+    <string name="delete">delete</string>
+    <string name="title">try recycler view</string>
+    <string name="test">test</string>
+    <string name="getimage">get image</string>
+    <string name="hello_espresso">hello espresso!</string>
+    <string name="loading">loading</string>
+</resources>

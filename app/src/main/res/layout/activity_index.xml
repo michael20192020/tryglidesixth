@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <Button
+        android:id="@+id/firstButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="espresso simple" />
+
+    <Button
+        android:id="@+id/recyclerViewButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="espresso recyclerView" />
+
+    <Button
+        android:id="@+id/rotateButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="espresso rotate" />
+
+    <Button
+        android:id="@+id/toolbarButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="espresso Matcher" />
+
+    <Button
+        android:id="@+id/asyncButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="espresso Async" />
+
+    <Button
+        android:id="@+id/async2Button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="espresso Async2" />
+
+
+    <Button
+        android:id="@+id/okhttpButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="espresso okhttp" />
+
+
+    <Button
+        android:id="@+id/daggerButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="espresso+Dagger2" />
+
+
+    <Button
+        android:id="@+id/btn_09"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Lv2-Mockito library" />
+
+    <Button
+        android:id="@+id/btn_10"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="MVP开发单元测试" />
+
+    <Button
+        android:id="@+id/btn_11"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Lv3-Robolectric library" />
+
+
+
+</LinearLayout>
